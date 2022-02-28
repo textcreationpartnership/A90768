@@ -1,0 +1,144 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A plea for moderation in the transactions of the Army: or, VVeighty observations upon the late proposalls for peace, presented by the Honourable City of London, to Commissary-Generall Ireton, for concurrence of the Generall Councell. Humbly offered unto the consideration of the officers of the Army; by Veritie Victor Gent.</title>
+            <author>Victor, Verity.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90768</idno>
+            <idno type="STC">Wing P2513</idno>
+            <idno type="STC">Thomason E536_12</idno>
+            <idno type="STC">ESTC R203335</idno>
+            <idno type="EEBO-CITATION">99863312</idno>
+            <idno type="PROQUEST">99863312</idno>
+            <idno type="VID">164830</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A90768)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 164830)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 83:E536[12])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A plea for moderation in the transactions of the Army: or, VVeighty observations upon the late proposalls for peace, presented by the Honourable City of London, to Commissary-Generall Ireton, for concurrence of the Generall Councell. Humbly offered unto the consideration of the officers of the Army; by Veritie Victor Gent.</title>
+                  <author>Victor, Verity.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Hanes,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Verity Victor is a pseudonym.</note>
+                  <note>A reply to: Several proposals for peace &amp; freedom, by an agreement of the people.</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>Signatures: A⁴.</note>
+                  <note>Annotation on Thomason copy: "Decemb. 28th.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Army. --  Council --  Early works to 1800.</term>
+               <term>Several proposals for peace &amp; freedom, by an agreement of the people --  Controversial literature --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:164830:1" rendition="simple:additions"/>
+            <p>A PLEA FOR MODERATION IN THE Tranſactions of the Army: OR, VVeighty Obſervations upon the late Pro<g ref="char:EOLhyphen"/>poſalls for Peace, preſented by the <hi>Honourable City of LONDON,</hi> To Commiſſary-Generall IRETON, for concur<g ref="char:EOLhyphen"/>rence of the Generall Councell.</p>
+            <p>Humbly offered unto the conſideration of the Officers of the ARMY;</p>
+            <p>By <hi>Veritie Victor</hi> Gent.</p>
+            <p>Printed for <hi>John Hanes,</hi> 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:164830:2" rendition="simple:additions"/>
+            <pb facs="tcp:164830:2"/>
+            <head>A Plea for Moderation in the Armies Tranſactions.</head>
+            <p>UPon reading of that Paper called Propoſals for Peace and Free<g ref="char:EOLhyphen"/>dome offered to Commiſſary Generall <hi>Ireton,</hi> for the concur<g ref="char:EOLhyphen"/>rence of the Army by divers worthy Citizens of the Common Councell, and others, and upon much weighing the matter, I diſco<g ref="char:EOLhyphen"/>ver ſomthing of the ſubſtance thereof, and in regard of the ſtrength of reaſon, even in all things therein touching the preſent condition of the ſtate of things now with us, (it being the onely wiſdome to looke at what beſt may be, and not at the narrow deſires that every mans will coveteth) and as to the honeſty thereof; I conceive no reaſonable man of what party ſoever, unleſſe the prodigall, or ſuch as deſires to live by the ruine of others, can ſay that there is any thing which tends to any other then the ſure contrivance for the ſettle<g ref="char:EOLhyphen"/>ment of a happy peace, and the maintenance of the due and equall propriety and freedome of all men: wherefore I have thought meet to obſerve, that firſt they conclude the King to be the per<g ref="char:EOLhyphen"/>ſon that hath brought this woe, miſery, and lamentable diſtraction upon the three Kingdomes. Secondly, that they conclude into that true Maxime of the Law, that whatſoever is not juſt in the begin<g ref="char:EOLhyphen"/>ning, cannot be made juſt by any Cuſtome of the longeſt continuane whatſoever; and therefore do firſt adjudge him guilty of all the blood and ruine of England and Ireland. Secondly, that they are deſirous that all uſurpations and incroachments upon the peoples Liberties whatſoever, may be immediately taken away: and per<g ref="char:EOLhyphen"/>haps may believe with me, that Kings Courts are the fountaines from whence the ſtreames of exceſſe doe flow, and (that Kings are the Beaſts ſpoken of in the Revelation of <hi>John</hi>) that thereby de<g ref="char:EOLhyphen"/>voure the people, and thither alſo do the ſubtilleſt ſerpents re<g ref="char:EOLhyphen"/>ſort, and by their ſupreme power ſting (even unto death) the reſt of the ſilly beaſts of the mountaines, and it is they that turn the grace of God into wantonneſſe and a lie, exalting with the horn of honour the covetous, the Extortioner, the Damner, Swearer, Who<g ref="char:EOLhyphen"/>rer, Gameſter, Cheater, Liar, and laſcivious Prodigalls, to the ba<g ref="char:EOLhyphen"/>niſhment of godlineſſe and true vertue, and all ſuch as (according to the only end for which they were borne) endeavoure righteouſ<g ref="char:EOLhyphen"/>neſſe
+<pb facs="tcp:164830:3"/>for the good of their generation. But conſidering the great dubiouſneſſe of the beſt of men, and that three Kingdomes concen<g ref="char:EOLhyphen"/>tereth in one Crowne, and that through the union thereby ſince King <hi>James</hi> came firſt into England, their Riches as well in Trade as Revenue were (before the warre) increaſed not leſſe then fourfold. Secondly, that none of the three can be highly happy without peace in all. Thirdly, that our old foundations of Government in refe<g ref="char:EOLhyphen"/>rence as aforeſaid, cannot be mended, except in the free and more equall choice of the Repreſentative. Fourthly, that ſince it hath pleaſed God that a ſolemne Nationall Covenant hath been made and remaineth between Scotland and us, whereby that Nation re<g ref="char:EOLhyphen"/>quireth mercy on the behalfe of the King as due thereby. Fifthly, for that God is a God of mercy, and not of puniſhment, unleſſe as they ſay, it will in reaſon convert into mercy. Sixtly, for that their proviſions for peace and freedome againſt all Tyranny is in reaſon unviolable through a generall agreement to be founded by this great and honourable City (out of Arms) upon as certaine proviſi<g ref="char:EOLhyphen"/>ons therein as can be laid down. Seventhly, that the union between the Scots and us may be preſerved, and their peace ſetled as well as ours. Eightly the ſudden reducement of Ireland. Ninthly, the con<g ref="char:EOLhyphen"/>viction of all the particular parties of the pure Parliament Inte<g ref="char:EOLhyphen"/>reſt, together againe. Tenthly, although it cannot be imagined that godly States-men will intend the alteration of a Government for the worſe, for that is not to be expected at the hands of the moſt e<g ref="char:EOLhyphen"/>vill Machivillians, for by the goodneſſe of the things laid downe muſt their ſupportation in ſtrength, honour, and fame be. But ne<g ref="char:EOLhyphen"/>ceſſity hath ever been obſerved to force the faireſt promiſing States<g ref="char:EOLhyphen"/>men upon alterations of the Government of Nations into the height of Tyranny and cruelty, eſpecially where a new Govern<g ref="char:EOLhyphen"/>ment is uſhered in by feare, that oppoſite to love and freedome, nor can the accompliſhment thereof be expected by this generati<g ref="char:EOLhyphen"/>on. And though extreme warrs could be avoided, yet cannot im<g ref="char:EOLhyphen"/>priſonment, hanging, heading, hunger-pining of thouſands, nay likely ten thouſands, and in the end may the worke come into as evill hands as this Tyrant, at large, our preſent King; but in the Cities way there is nothing but certainties in reaſon, for binding their Kings with chaines, and their Nobles with links of iron, yet by a ſweet yoke, and pleaſant bonds to the producement of their greatneſſe peace and honour, as well as the peoples. Eleventhly, I further obſerve, that the King deſerved death even long before the warres through the violations of our Lawes, his Oath and Covenant (beſides that of his Father) but more eſpecially for all the evill done
+<pb facs="tcp:164830:3"/>in the firſt war, untill Auguſt and September, 1647. when notwith<g ref="char:EOLhyphen"/>ſtanding he was concluded to be the ſame in reſolution, touching the evill of his heart, as at firſt, when notwithſtanding ſo great tender<g ref="char:EOLhyphen"/>neſſe was had not onely of his life, but to his Negative voice alſo. And wherefore now if more could not be fought for, or expected as to freedom, then may be had by the continuance of his life, much better then by his death, as if mentioned by all the foregoing reaſons, why then may not mercy be afforded him, &amp; not to run the hazard of deſtruction &amp; confuſion to the whole three Nations. And again for that the Prince and Duke of <hi>York</hi> are both abroad, therefore muſt we not only expect preſent conteſts and Warres with Scotland and Ireland, but with moſt of the Adjacent Princes in Europe, which cannot but immediately deſtroy our old and famous Trade of Mer<g ref="char:EOLhyphen"/>chandize; For which conſiderations, as alſo for the ſupportation of thoſe hundreds of thouſands of People of this City, and likewiſe for the mainenance of the manufactory of the whole Kingdome, muſt the Citizens be for ever reputed both pious, moderate and wiſe, if againe they preſſe forward herein. In their Paper I further ob<g ref="char:EOLhyphen"/>ſerve, that they would have the King diſarmed of thoſe two poy<g ref="char:EOLhyphen"/>ſoning ſwords of deſtruction, whereby all Princes (together with their ſerpents about them) deſtroy the Nations, <hi>viz.</hi> the power of dignifying with Offices, and alſo with Titles of honor, whomſoe<g ref="char:EOLhyphen"/>ver beſt ſerveth their luſts; and indeed ſhould he have been brought in naked, theſe two excepted, if the Parliament ſhould have con<g ref="char:EOLhyphen"/>tinued but a few yeares longer, it would not have been difficult and hard unto him (by thoſe two baites of honor) to have drawn the Angells of heavenly knowledge and ſtarrs of great light unto the earth againe, when having courted in the idoliz'd &amp; deiſi'd heads of the particular parties, the reſt following of courſe, would thus have made the Nation ſlaves of what degree ſoever he had pleaſed: Is any thing for Nations freedom like bonds to Ambition? And were it but the faſhion for Kings to diſcountenance vice, and dignifie vertue, they would then merit their Crownes, for which onely end they firſt had them; for then would righteouſneſſe and vertue ſhine forth in the Nation, as the faſhionable things; and debauchery and exceſſe fall to diſdaine. They alſo in their Paper have ſufficiently provided for a godly preaching Miniſtery, with an augmentation of more then one third of that of old, by avoiding the Miniſters ac<g ref="char:EOLhyphen"/>cuſtomed charge of gathering and converting Tythes, as the avoi<g ref="char:EOLhyphen"/>ding of ſuite, trouble and contention thereupon, beſides the more equall conſideration for the labors and paines of thoſe that ſhall be appointed thereto, which although not the ſame with the Scots,
+<pb facs="tcp:164830:4"/>yet for that it wholly thwarteth not the Covenant (not admit<g ref="char:EOLhyphen"/>ting the civill Magiſtrate a Judge in point of conſcience) is well reli<g ref="char:EOLhyphen"/>ſhed by them, notwithſtanding a generall Liberty of Conſcience to all godly conſcientious walkers; proteſting againſt the State-de<g ref="char:EOLhyphen"/>ſtroying Tenents as to peace and freedome not only of Popery, E<g ref="char:EOLhyphen"/>piſcopacie, and all Eccleſiaſticall Juriſdiction, by Courrs and Offices to that purpoſe. And did they think that the punitive power men<g ref="char:EOLhyphen"/>tioned by them in their Remonſtrance of June 1647. in point of Conſcience, had even juſtly brought theſe great evills upon them and the Nation, but not find that is not the thing, as witneſſe the judgment of ſome powerfull perſons in debate, and yeilding the thing, if it would have been accepted on in another (though a worſer) manner. Their Noble care that the ſouldiery in generall may be payed all their Arreares due unto them, and ſo as cannot but be to the great advantage of the State by improvement of that wilfull waſt formerly made, as may ſoone be ſome millions to the benefit of the State; as alſo to the well pleaſing both of Lord and Tenant, and the gladding and making joyfull of the hearts of many thouſands of the poore that are now ready (even daily) to periſh with want, and are not onely contented that the renowned Army ſhould be preſently ſatisfied, and by lands payed as followeth, viz. for every yeare that every Trooper is in arreare, or proportionable in time thereunto, the ſumme of foure pounds du<g ref="char:EOLhyphen"/>ring his life, without defalcation of free-quarter; and that every Foot-Souldier that is in arreare, may have fifty ſhillings a yeere for every yeere due unto him, during his life, with proportion to time as to the Horſe aforeſaid; and without defalcation for free-quarter alſo; and that thoſe which ſhalbe thought meet by the general Coun<g ref="char:EOLhyphen"/>cel of the Army to be diſmiſſed for Ireland, have the Fee-ſimple ther<g ref="char:EOLhyphen"/>of to them and their heirs for ever. And it is now commonly ſpoken in the City, they are further content, that what was formerly aſſigned to the Souldiery for term of life, may be conferred upon them for ever: And that thoſe that ſhall be diſmiſſed to Ireland, as aforeſaid, may have their proportions increaſed to one fourth part more then is now aſſigned; and will alſo upon ſecurity of the intended lands for that purpoſe, if the generall Councell ſhall think meet, pay in ready money all ſuch arreares as ſhall be due either to any Officer or ſouldier, by order from the generall Councell aforeſaid: And fur<g ref="char:EOLhyphen"/>ther, I conceive, greater indeavours for the preſervation of the Ar<g ref="char:EOLhyphen"/>mies honour and intereſt, both in England and Ireland, cannot be ex<g ref="char:EOLhyphen"/>pected, beyond what is laid down in the Cities paper of Propoſalls: and do they expect their chiefeſt ſafety to be concerned in them, as
+<pb facs="tcp:164830:4"/>further appeareth by that power repoſed in that excellet and ho<g ref="char:EOLhyphen"/>norable Committee for the diſpoſe of all Offices, degrading, and dignifying with titles of honor all ſuch as pleaſeth that Committee: But if what is deſired by the honourable Citizens may not be per<g ref="char:EOLhyphen"/>mitted, but that wars muſt ſtill be our portion, or a ſettlement by the Sword onely, we cannot expect better then in all the world beſides, viz. that how juſt ſoever the Government is chalked out and inten<g ref="char:EOLhyphen"/>ded to be, yet muſt we have no more thereof meted unto us, then the leading perſons of State will in the future be pleaſed to afford us: and may it be our portion with Germany, where the People have by right of Agreement, not only the choice of their Emperor, and many of their Kings and Princes, but of their Lawes alſo, yet may not according to truth have choice in either, but are lamen<g ref="char:EOLhyphen"/>table ſlaves; for it is not as Lawes are made, but as the Power plea<g ref="char:EOLhyphen"/>ſeth, that putteth them in execution, whether to call truth falſe<g ref="char:EOLhyphen"/>hood, or falſehood truth, as witneſſe our introachments and uſir<g ref="char:EOLhyphen"/>pations by falſe Judges that have brought forth all theſe our diſtrac<g ref="char:EOLhyphen"/>tions, to obtain honour from the Beaſt: And in this, and this only reſteth, and wholly dependeth our Freedome; viz. to indeavour and obtain the avoiding of all force and Warres, whereby we may without delay put our now knowne Rights in execution, to the preſent commanding of King, Lords, and People to an immediate obedience upon the preſent incurment of the ſtricteſt penalty of the Law, and when wee be at Peace: then will the ſeverity of puniſh<g ref="char:EOLhyphen"/>ing the breakers of the Nationall Law (for the preſervation of the publique Peace) convert into mercie. But when commotions are, and (that there be many parties in a Nation, and not any one of which, were they uppermoſt, but would deſtroy the reſt (or ſo ma<g ref="char:EOLhyphen"/>ny of the reſt as ſhould beſt pleaſe) even by a Law, and be cryed up too (by their party) for pure Juſtice, in this caſe ought the mo<g ref="char:EOLhyphen"/>tion of the diſtempered waters, I mean the People, to be truly ob<g ref="char:EOLhyphen"/>ſerved, and for them that will profeſſe Chriſt, to indeavour as medi<g ref="char:EOLhyphen"/>ators to lay the diſtempers, and if they in reaſon ſee that advan<g ref="char:EOLhyphen"/>tage to a happy peace maybe obtained by ſparing of one or more of the leaders of one party, (and the like of another) after whom God hath been pleaſed to ſuffer the hearts perhaps of thouſands, 10. thouſands, or millions of people to be drawne out after, (though by a deluſion or a lye as ſome may call it, yet as they or ſome of them may conceive truth) and that thereby the boyſterous falt waves may ceaſe further to ſwell, untill a conjunction by freſh-wa<g ref="char:EOLhyphen"/>ters
+<pb facs="tcp:164830:5"/>may in time happily refine them; this rule of Chriſtianity and reaſon. And through the freedome and frequentneſſe of Parliaments, will all, not only all old and beaſtly cuſtomes be avoided, and evill Lawes repealed, but what is beſt and moſt ſeaſonable for a generall good, be provided for; as alſo if honeſt men be choſen for Mem<g ref="char:EOLhyphen"/>bers thereof, (perhaps) they may act honeſt things for 5. or 6. moneths for Gods ſake, If knaves (for the Peoples) for Populari<g ref="char:EOLhyphen"/>ty ſake, nor will any have opportunity to act much evill in ſo ſhort a time; and what is not well done in one Parliament, will be mended in the next: for by the frequentneſſe thereof, will all men be acquainted with what is freedome, and what is ſlavery, and where the Breach is, which by long ſitting of Parliaments, or the long vacations thereof, (as wofull experience teacheth the Nation) a forced ignorance to the diſtruction of Freedome muſt follow.</p>
+            <p>This I thought neceſſary to ſpeak touching ſome few particulars, of the Paper of the Citizens Propoſalls, and could I earneſtly deſire that the godly Officers of the Army and ſouldiers alſo would view them well, eſpecially all ſuch as look not aſquint (as the floating Courtyer uſed to do that neither look't back to his Father, or on the right or left hand to his Brothers, Siſters, Kinsfolk and acquaintance: Or to what may enſue to his Childrens Children, and others of the Generations to come) and would ſhew what is wanting therein to the ſettlement of the preſent peace with the maintenance of all due and equall propriety, and unalterable Freedome, to all inſuing Po<g ref="char:EOLhyphen"/>ſterities (theirs and the private ſouldiers Honourable and great re<g ref="char:EOLhyphen"/>ward with more certainties then otherwiſe themſelves can propoſe) but if the matters propoſed be unanſwerable in reaſon, that then they would endeavour the acceptance thereof.</p>
+            <p>Friends, it is my burthen, that the actions of Chriſt have been ſo much neglected by ſome whoſe name is ſo precious in their mouths, that their righteouſneſſe &amp; humility ſhines not forth after that man<g ref="char:EOLhyphen"/>ner, as the Beams therof might melt the name of all other Kings, and whereby I am forc'd to be an Advocate for the Title of a King, whoſe name I abhorre as they are the ſtandards of Ambition, and Fountaines of exceſſe, to the diſtruction of the Nations: But of two evills the leſſer is to be choſen; and when yeſterday cannot be cal<g ref="char:EOLhyphen"/>led againe, let the beſt be made of the day preſent: and it is more ſafe to have to doe with a muſled Lion, then a tame ſerpent.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
